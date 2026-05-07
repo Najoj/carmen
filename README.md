@@ -1,3 +1,1 @@
-# HonkStonk.github.io
-
-PWA Magic Compass
+Hitta Carmen
